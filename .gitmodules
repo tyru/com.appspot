@@ -4,3 +4,6 @@
 [submodule "tyru-s"]
 	path = tyru-s
 	url = git://github.com/tyru/com.appspot.tyru-s.git
+[submodule "delicious-search"]
+	path = delicious-search
+	url = git://github.com/tyru/com.appspot.delicious-search.git
