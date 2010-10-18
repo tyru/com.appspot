@@ -1,3 +1,6 @@
 [submodule "tyrubots"]
 	path = tyrubots
 	url = git://github.com/tyru/com.appspot.tyrubots.git
+[submodule "tyru-s"]
+	path = tyru-s
+	url = git://github.com/tyru/com.appspot.tyru-s.git
