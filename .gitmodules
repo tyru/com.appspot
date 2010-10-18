@@ -1,0 +1,3 @@
+[submodule "tyrubots"]
+	path = tyrubots
+	url = git://github.com/tyru/com.appspot.tyrubots.git
